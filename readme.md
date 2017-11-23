@@ -1,7 +1,7 @@
-Short Ln
+# Short Ln
 
 This is a link shortener built on Meteor and React.
 
-Authors
+## Authors
 
 Ionela ALexandra Ciobanu
